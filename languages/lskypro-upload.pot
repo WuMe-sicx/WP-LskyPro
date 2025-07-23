@@ -1,0 +1,73 @@
+# Copyright (C) 2023 isYangs
+# This file is distributed under the same license as the LskyPro Upload plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: LskyPro Upload 1.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/lskypro-upload\n"
+"POT-Creation-Date: 2023-07-23 00:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: lsky-upload.php:59
+msgid "Settings"
+msgstr ""
+
+#: includes/lsky-config.php:132
+msgid "Basic Settings"
+msgstr ""
+
+#: includes/lsky-config.php:135
+msgid "API URL"
+msgstr ""
+
+#: includes/lsky-config.php:143
+msgid "Tokens"
+msgstr ""
+
+#: includes/lsky-config.php:151
+msgid "Image Permission"
+msgstr ""
+
+#: includes/lsky-config.php:154
+msgid "Public"
+msgstr ""
+
+#: includes/lsky-config.php:155
+msgid "Private"
+msgstr ""
+
+#: includes/lsky-config.php:164
+msgid "Advanced Settings"
+msgstr ""
+
+#: includes/lsky-config.php:167
+msgid "Allowed Roles"
+msgstr ""
+
+#: includes/lsky-config.php:182
+msgid "Maximum Upload Size (MB)"
+msgstr ""
+
+#: includes/lsky-config.php:190
+msgid "Allowed Image Types"
+msgstr ""
+
+#: upload/lsky-img.php:73
+msgid "Upload to LskyPro"
+msgstr ""
+
+#: upload/lsky-img.php:76
+msgid "Please wait while uploading! Do not refresh the page."
+msgstr ""
+
+#: upload/lsky-img.php:104
+msgid "LskyPro Upload"
+msgstr ""
+
+#: upload/lsky-img.php:125
+msgid "Click this area to upload images"
+msgstr "" 
